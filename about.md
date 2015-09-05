@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a senior computer science student at The University of Texas at Austin... and a former Aggie. Hook 'em!
+I'm a senior computer science student at The University of Texas at Austin... and a former Texas A&M Aggie. Hook 'em!
 
 ### Contact me
 
-[Uyviet.Nguyen@utexas.edu](mailto:uyviet.nguyen@utexas.edu)
+[Uyviet.Nguyen@UTexas.edu](mailto:Uyviet.Nguyen@UTexas.edu)
